@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Rúben 👋
 
-<!--
-**rmps23/rmps23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer in Lisbon. I build online stores, CRMs and the integrations that connect them, mostly with **PHP and Laravel**, plus a lot of **WooCommerce** and **Magento**. Currently at [Excentric.id](https://excentric.id).
 
-Here are some ideas to get you started:
+**Stack:** PHP · Laravel · CodeIgniter · WordPress · WooCommerce · Magento 2 · MySQL · JavaScript · C# · Next.js · React · Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Side projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [RBBinder](https://github.com/rmps23/rbbinder) | Card collection manager with a camera card scanner, deck builder and market prices | Next.js, TypeScript, Supabase |
+| [DummyLab](https://github.com/rmps23/dummylab_2024) | Dashboard for League of Legends coaches, with Riot API match history | Next.js, Supabase, Riot API |
+| [LOLSCOUT](https://github.com/rmps23/lolscout) | Team-finding platform for League of Legends players | PHP, MySQL, Riot API |
+| [Planties](https://github.com/rmps23/planties) | Social network concept for plant lovers | React, Vite, Tailwind |
+
+📫 [LinkedIn](https://www.linkedin.com/in/rmsousa-dev) · rubensousa96@hotmail.com
